@@ -3,7 +3,7 @@
 Este projeto é um aplicativo mobile desenvolvido em Flutter para a disciplina de Programação para Dispositivos Móveis. O objetivo principal é simular e comparar o rendimento de dois investimentos distintos ao longo do tempo, utilizando cálculos de juros compostos e apresentando os resultados de forma visual e intuitiva.
 
 ## Demonstração
-[Assistir ao vídeo de demonstração do aplicativo](https://www.google.com)
+[Assistir ao vídeo de demonstração do aplicativo](https://drive.google.com/file/d/1581BuW9oDl0A17jQfyBYe4FyjWazQqlg/view?usp=drive_link)
 
 ## Tecnologias Utilizadas
 * **Linguagem:** Dart
